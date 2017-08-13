@@ -1,3 +1,5 @@
 This is Git File 1.
 
+Adding one line here.
+
 EOF
