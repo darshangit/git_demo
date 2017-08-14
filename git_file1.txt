@@ -1,5 +1,7 @@
 This is Git File 1.
 
+Adding branch line before
 Adding one line here.
+This ia adding branch line after
 
 EOF
